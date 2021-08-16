@@ -21,9 +21,10 @@ npm install -g gatsby-cli
 
 To get the Client ID for Google OAuth, go to this [page](https://console.cloud.google.com/apis/dashboard)
 
-If you are a first timer, you will be asked to create a Project and OAuth Consent Page\
+If you are a first timer, you will be asked to create a Project and OAuth Consent Page
 
 After create project:
+
 1. Go to `Credential` menu.
 2. In the OAuth 2.0 Client IDs section, create a new credential.
 3. When creating the credential you will asked to input:  
@@ -32,7 +33,10 @@ After create project:
     - Authorized redirect URIs: an URI where we approved the page to redirect.
 4. Then copy the Client ID from created credential
 
+
+
 ## How to get Google OAuth 2.0 Client ID
+
 Go to this page and choose the OAuth Consent Screen, then you will be asked to fill:
 - Your App Name
 - User Support Email
